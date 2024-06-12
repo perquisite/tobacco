@@ -1,0 +1,48 @@
+***********************************************************************
+日志信息 2022-07-19 18:00:40
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\标准文件\建筑合同.docx standard 4 C:\审查结果\20220719180039
+审核结果:处理：1个文件
+{"status": false}
+
+***********************************************************************
+日志信息 2022-07-19 18:19:52
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\标准文件\买卖合同.docx standard 0 C:\审查结果\20220719181842
+审核结果:处理：1个文件
+{"status": true}
+
+***********************************************************************
+日志信息 2022-07-19 18:20:36
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\标准文件\建筑合同.docx standard 4 C:\审查结果\20220719182035
+审核结果:处理：1个文件
+{"status": false}
+
+***********************************************************************
+日志信息 2022-07-19 18:23:45
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\非标准文件\买卖合同\非标准买卖合同 (1).docx nonstandard 0 C:\审查结果\20220719182344
+审核结果:处理：1个文件
+{"status": false}
+
+***********************************************************************
+日志信息 2022-07-19 18:24:04
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\非标准文件\租赁合同\非标准租赁合同 (1).docx nonstandard 1 C:\审查结果\20220719182404
+审核结果:处理：1个文件
+{"status": false}
+
+***********************************************************************
+日志信息 2022-07-19 18:24:13
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\非标准文件\采购合同\非标准采购合同 (1).docx nonstandard 2 C:\审查结果\20220719182412
+审核结果:处理：1个文件
+{"status": false}
+
+***********************************************************************
+日志信息 2022-07-19 18:26:48
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\非标准文件\物业服务合同\非标准物业合同 (1).docx nonstandard 3 C:\审查结果\20220719182647
+审核结果:处理：1个文件
+{"status": false}
+
+***********************************************************************
+日志信息 2022-07-19 18:31:41
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\非标准文件\采购合同\非标准采购合同(1).docx nonstandard 2 C:\审查结果\20220719183109
+审核结果:处理：1个文件
+{"status": true}
+

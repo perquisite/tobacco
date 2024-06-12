@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.tobacco.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为28">
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1000</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">元</ns1:惩罚单位>
+    <ns1:阈值 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">30</ns1:阈值>
+    <ns1:阈值单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">日</ns1:阈值单位>
+    <ns1:法律条款原文>第二十八条  不及时办理烟草专卖许可证变更手续的，由烟草专卖局责令改正，拒不改正的，依照《烟草专卖许可证管理办法》第五十七条规定，按下列规定给予处罚：(一)未在30日内整改的，处以500元以下的罚款；(二)30日期限届满后，再次责令整改但仍未在规定期限内整改的，处以500元以上1000元以下的罚款。</ns1:法律条款原文>
+    <ns1:违法行为名称>不及时办理烟草专卖许可证变更、注销手续</ns1:违法行为名称>
+    <ns1:法律名称>成都市烟草专卖行政处罚自由裁量权</ns1:法律名称>
+    <ns1:法律条数>二十八</ns1:法律条数>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为28处罚结果1"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为28处罚结果2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为28处罚结果1">
+    <ns1:处罚结果原文>(一)未在30日内整改的，处以500元以下的罚款</ns1:处罚结果原文>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">500</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">元</ns1:惩罚单位>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>false</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为28处罚结果2">
+    <ns1:处罚结果原文>(二)30日期限届满后，再次责令整改但仍未在规定期限内整改的，处以500元以上1000元以下的罚款</ns1:处罚结果原文>
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">500</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1000</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">元</ns1:惩罚单位>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>false</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+</rdf:RDF>

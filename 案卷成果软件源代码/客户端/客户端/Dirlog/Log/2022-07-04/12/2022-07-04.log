@@ -1,0 +1,18 @@
+***********************************************************************
+日志信息 2022-07-04 12:26:01
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\标准文件\建筑合同.docx nonstandard 3 C:\NewFiles\20220704122559
+审核结果:处理：3个文件
+{"status": false}
+
+***********************************************************************
+日志信息 2022-07-04 12:27:22
+审查命令:C:\WorkSpace\tobacco-master\yancaoRegularDemo\Anjuan_api.py C:\Users\Administrator\Desktop\烟草法治审查辅助决策工具 C:\NewFile\Test\20220704122639
+审查案卷返回:C:\WorkSpace\tobacco-master\yancaoRegularDemo\Resource\KnowledgeGragh
+输入路径：C:\Users\Administrator\Desktop\烟草法治审查辅助决策工具，输出路径：C:\NewFile\Test\20220704122639，
+
+***********************************************************************
+日志信息 2022-07-04 12:29:01
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\标准文件\采购合同.docx nonstandard 3 C:\NewFiles\20220704122815
+审核结果:处理：3个文件
+{"status": false}
+

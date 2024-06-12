@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.tobacco.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.tobacco.org#punish_results2.2">
+    <ns1:Purchase>true</ns1:Purchase>
+    <ns1:Penalty>true</ns1:Penalty>
+    <ns1:confiscation_illegal_gains>false</ns1:confiscation_illegal_gains>
+    <ns1:confiscation_tobacco>false</ns1:confiscation_tobacco>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#Behavior/illegal_behavior2">
+    <ns1:purchase_tobacoo_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7</ns1:purchase_tobacoo_rate>
+    <ns1:max_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</ns1:max_penalty_rate>
+    <ns1:tobacoo_value rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50000</ns1:tobacoo_value>
+    <ns1:Not_Serious_Punish rdf:resource="http://www.tobacco.org#punish_results2.2"/>
+    <ns1:Serious_Punish rdf:resource="http://www.tobacco.org#punish_results2.1"/>
+    <ns1:behaviour_name>无烟草专卖品准运证运输烟草专卖品</ns1:behaviour_name>
+    <ns1:min_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</ns1:min_penalty_rate>
+    <ns1:raw_text>无准运证或者超过准运证规定的数量托运或者自运烟草专卖品的，处以违法运输的烟草专卖品价值20%以上50%以下的罚款，可以按照查获地省级烟草专卖行政主管部门出具的上年度烟叶平均收购价格的70%收购违法运输的烟叶，按照市场批发价格的70%收购违法运输的除烟叶外的其他烟草专卖品;有下列情形之一的，没收违法运输的烟草专卖品和违法所得：①非法运输的烟草专卖品价值超过5万元或者运输卷烟数量超过100件（每1万支为1件）的；②被烟草专卖行政主管部门处罚两次以上的；③抗拒烟草专卖行政主管部门的监督检查人员依法实施检查的；④非法运输走私烟草专卖品的；⑤运输无烟草专卖生产企业许可证的企业生产的烟草专卖品的；⑥利用伪装非法运输烟草专卖品的；⑦利用特种车辆运输烟草专卖品逃避检查的；⑧其他非法运输行为，情节严重的。</ns1:raw_text>
+    <ns1:purchase_tobacoo_leaf_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7</ns1:purchase_tobacoo_leaf_rate>
+    <ns1:conditions>['被烟草专卖行政主管部门处罚两次以上的', '抗拒烟草专卖行政主管部门的监督检查人员依法实施检查的', '非法运输走私烟草专卖品的', '运输无烟草专卖生产企业许可证的企业生产的烟草专卖品的', '利用伪装非法运输烟草专卖品的', '利用特种车辆运输烟草专卖品逃避检查的', '其他非法运输行为，情节严重的']</ns1:conditions>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#punish_results2.1">
+    <ns1:Penalty>false</ns1:Penalty>
+    <ns1:confiscation_illegal_gains>true</ns1:confiscation_illegal_gains>
+    <ns1:Purchase>false</ns1:Purchase>
+    <ns1:confiscation_tobacco>true</ns1:confiscation_tobacco>
+  </rdf:Description>
+</rdf:RDF>

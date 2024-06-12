@@ -1,0 +1,160 @@
+***********************************************************************
+日志信息 2022-07-07 13:01:43
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130143”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:01:44
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130144”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:01:44
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130144”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:01:45
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130145”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:01:45
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130145”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:01:48
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130148”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:06:30
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130630”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:06:32
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130632”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:06:33
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130633”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:06:33
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130633”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:06:33
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130633”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:06:33
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130633”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:06:41
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130641”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:06:43
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130643”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:06:47
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130647”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:07:24
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130724”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:07:25
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130725”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:07:25
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130725”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:07:25
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130725”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)
+***********************************************************************
+日志信息 2022-07-07 13:07:26
+button2_Click发生错误:未能找到路径“E:\NewFile\20220707130726”的一部分。
+详细信息:   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 AuditingAssistant.MainWindow.button2_Click(Object sender, EventArgs e)

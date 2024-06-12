@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.tobacco.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.tobacco.org#Behavior/illegal_behavior7.2">
+    <ns1:behaviour_name>未取得国务院烟草专卖行政主管部门颁发的烟草专卖批发企业许可证，擅自跨省、自治区、直辖市从事烟草制品批发业务</ns1:behaviour_name>
+    <ns1:raw_text>未取得国务院烟草专卖行政主管部门颁发的烟草专卖批发企业许可证，擅自跨省、自治区、直辖市从事烟草制品批发业务的，由烟草专卖行政主管部门处以10%以上20%以下的罚款。</ns1:raw_text>
+    <ns1:Punish rdf:resource="http://www.tobacco.org#punish_results7.2"/>
+    <ns1:min_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ns1:min_penalty_rate>
+    <ns1:max_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</ns1:max_penalty_rate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#punish_results7.2">
+    <ns1:confiscation_tobacco>false</ns1:confiscation_tobacco>
+    <ns1:Penalty>true</ns1:Penalty>
+    <ns1:Purchase>false</ns1:Purchase>
+    <ns1:confiscation_illegal_gains>false</ns1:confiscation_illegal_gains>
+  </rdf:Description>
+</rdf:RDF>

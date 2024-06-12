@@ -1,0 +1,12 @@
+***********************************************************************
+日志信息 2022-07-19 14:39:46
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\标准文件\采购合同.docx nonstandard 2 C:\审查结果\20220719143901
+审核结果:处理：1个文件
+{"status": true}
+
+***********************************************************************
+日志信息 2022-07-19 14:41:51
+审查命令:C:\WorkSpace\tobacco-master\HeTongZuCode\Hetong_api.py C:\Users\Administrator\Desktop\合同组测试用例\标准文件\采购合同.docx standard 2 C:\审查结果\20220719144106
+审核结果:处理：1个文件
+{"status": true}
+

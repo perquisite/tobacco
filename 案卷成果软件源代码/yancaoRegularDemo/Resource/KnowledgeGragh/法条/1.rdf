@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.tobacco.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.tobacco.org/Behavior/illegal_behavior1">
+    <ns1:Not_Serious_Punish rdf:resource="http://www.tobacco.org/punish_results1.2"/>
+    <ns1:purchase_tobacoo_leaf_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7</ns1:purchase_tobacoo_leaf_rate>
+    <ns1:Serious_Punish rdf:resource="http://www.tobacco.org/punish_results1.1"/>
+    <ns1:min_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</ns1:min_penalty_rate>
+    <ns1:behaviour_name>擅自收购烟叶</ns1:behaviour_name>
+    <ns1:raw_text>擅自收购烟叶的，可以处非法收购烟叶价值20%以上50%以下的罚款，并按照查获地省级烟草专卖行政主管部门出具的上年度烟叶平均收购价格的70%收购违法收购的烟叶；擅自收购烟叶1000公斤以上的，依法没收其违法收购的烟叶和违法所得。</ns1:raw_text>
+    <ns1:max_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</ns1:max_penalty_rate>
+    <ns1:max_tobacoo_leaf_amount rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1000</ns1:max_tobacoo_leaf_amount>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org/punish_results1.2">
+    <ns1:confiscation_illegal_gains>false</ns1:confiscation_illegal_gains>
+    <ns1:Purchase>true</ns1:Purchase>
+    <ns1:Penalty>true</ns1:Penalty>
+    <ns1:confiscation_tobacco>false</ns1:confiscation_tobacco>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org/punish_results1.1">
+    <ns1:confiscation_tobacco>true</ns1:confiscation_tobacco>
+    <ns1:Purchase>false</ns1:Purchase>
+    <ns1:confiscation_illegal_gains>true</ns1:confiscation_illegal_gains>
+    <ns1:Penalty>false</ns1:Penalty>
+  </rdf:Description>
+</rdf:RDF>

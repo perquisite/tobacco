@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.tobacco.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为22">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">比例</ns1:惩罚单位>
+    <ns1:阈值 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2000 5000</ns1:阈值>
+    <ns1:阈值单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">元</ns1:阈值单位>
+    <ns1:法律条款原文>第二十二条  烟草专卖生产企业和烟草专卖批发企业为无烟草专卖许可证的单位或者个人提供烟草专卖品的，依照《中华人民共和国烟草专卖法实施条例》第六十条规定，按下列规定给予处罚：(一)违法提供的烟草专卖品价值不足2000元的，没收违法所得，并处以销售总额百分之二十以上百分之三十以下的罚款；(二)违法提供的烟草专卖品价值在2000元以上不足5000元的，没收违法所得，并处以销售总额百分之三十以上百分之四十以下的罚款；(三)违法提供的烟草专卖品价值在5000元以上的，没收违法所得，并处以销售总额百分之四十以上百分之五十以下的罚款。</ns1:法律条款原文>
+    <ns1:违法行为名称>为无烟草专卖许可证的单位或者个人提供烟草专卖品</ns1:违法行为名称>
+    <ns1:法律名称>成都市烟草专卖行政处罚自由裁量权</ns1:法律名称>
+    <ns1:法律条数>二十二</ns1:法律条数>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为22处罚结果1"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为22处罚结果2"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为22处罚结果3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为22处罚结果1">
+    <ns1:处罚结果原文>(一)违法提供的烟草专卖品价值不足2000元的，没收违法所得，并处以销售总额百分之二十以上百分之三十以下的罚款</ns1:处罚结果原文>
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">比例</ns1:惩罚单位>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>true</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为22处罚结果2">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">比例</ns1:惩罚单位>
+    <ns1:处罚结果原文>(二)违法提供的烟草专卖品价值在2000元以上不足5000元的，没收违法所得，并处以销售总额百分之三十以上百分之四十以下的罚款</ns1:处罚结果原文>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>true</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为22处罚结果3">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">比例</ns1:惩罚单位>
+    <ns1:处罚结果原文>(三)违法提供的烟草专卖品价值在5000元以上的，没收违法所得，并处以销售总额百分之四十以上百分之五十以下的罚款</ns1:处罚结果原文>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>true</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+</rdf:RDF>

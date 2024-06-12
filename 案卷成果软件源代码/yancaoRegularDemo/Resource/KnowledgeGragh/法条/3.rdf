@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.tobacco.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.tobacco.org#punish_results3">
+    <ns1:confiscation_illegal_gains>true</ns1:confiscation_illegal_gains>
+    <ns1:Purchase>false</ns1:Purchase>
+    <ns1:confiscation_tobacco>false</ns1:confiscation_tobacco>
+    <ns1:Penalty>true</ns1:Penalty>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#Behavior/illegal_behavior3">
+    <ns1:Punish rdf:resource="http://www.tobacco.org#punish_results3"/>
+    <ns1:behaviour_name>为无烟草专卖品准运证者运输烟草专卖品</ns1:behaviour_name>
+    <ns1:max_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</ns1:max_penalty_rate>
+    <ns1:min_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ns1:min_penalty_rate>
+    <ns1:raw_text>承运人明知是烟草专卖品而为无准运证的单位、个人运输的，没收违法所得，可以并处违法运输的烟草专卖品价值10%以上20%以下的罚款。</ns1:raw_text>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.tobacco.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.tobacco.org#Behavior/illegal_behavior8">
+    <ns1:behaviour_name>超范围从事烟草制品批发业务</ns1:behaviour_name>
+    <ns1:max_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</ns1:max_penalty_rate>
+    <ns1:raw_text>超越经营范围和地域范围，从事烟草制品批发业务的，由烟草专卖行政主管部门责令暂停经营批发业务，没收违法所得，处以违法经营的烟草制品价值10%以上20%以下的罚款。</ns1:raw_text>
+    <ns1:Punish rdf:resource="http://www.tobacco.org#punish_results8"/>
+    <ns1:min_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.1</ns1:min_penalty_rate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#punish_results8">
+    <ns1:Purchase>false</ns1:Purchase>
+    <ns1:confiscation_tobacco>false</ns1:confiscation_tobacco>
+    <ns1:confiscation_illegal_gains>true</ns1:confiscation_illegal_gains>
+    <ns1:Penalty>true</ns1:Penalty>
+  </rdf:Description>
+</rdf:RDF>

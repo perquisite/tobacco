@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.tobacco.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为47">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2000</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50000</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">元</ns1:惩罚单位>
+    <ns1:阈值 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50000 200000</ns1:阈值>
+    <ns1:阈值单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">元</ns1:阈值单位>
+    <ns1:法律条款原文>第四十七条  为生产、运输、邮寄、存储、销售假冒伪劣烟草制品、走私烟草制品、出口倒流国产烟草制品、未缴付关税而流出免税店和保税区的烟草制品提供条件的，依照《成都市烟草专卖管理条例》第三十七条规定，按下列规定给予处罚：(一)烟草制品价值不足5万元的，没收违法所得，可以并处以2000元以上1万元以下的罚款；(二)烟草制品价值在5万元以上不足20万元的，没收违法所得，并处以5000元以上2万元以下的罚款；(三)烟草制品价值在20万元以上或者数量在2000条以上的，没收违法所得，并处以2万元以上5万元以下的罚款。</ns1:法律条款原文>
+    <ns1:违法行为名称>为生产、运输、邮寄、存储、销售假冒伪劣烟草制品、走私烟草制品、出口倒流国产烟草制品、未缴付关税而流出免税店和保税区的烟草制品提供条件</ns1:违法行为名称>
+    <ns1:法律名称>成都市烟草专卖行政处罚自由裁量权</ns1:法律名称>
+    <ns1:法律条数>四十七</ns1:法律条数>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为47处罚结果1"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为47处罚结果2"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为47处罚结果3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为47处罚结果1">
+    <ns1:处罚结果原文>(一)烟草制品价值不足5万元的，没收违法所得，可以并处以2000元以上1万元以下的罚款</ns1:处罚结果原文>
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2000</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10000</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">元</ns1:惩罚单位>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>true</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为47处罚结果2">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">5000</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20000</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">元</ns1:惩罚单位>
+    <ns1:处罚结果原文>(二)烟草制品价值在5万元以上不足20万元的，没收违法所得，并处以5000元以上2万元以下的罚款</ns1:处罚结果原文>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>true</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为47处罚结果3">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20000</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">50000</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">元</ns1:惩罚单位>
+    <ns1:处罚结果原文>(三)烟草制品价值在20万元以上或者数量在2000条以上的，没收违法所得，并处以2万元以上5万元以下的罚款</ns1:处罚结果原文>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>true</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+</rdf:RDF>

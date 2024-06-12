@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.tobacco.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为45">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">倍</ns1:惩罚单位>
+    <ns1:阈值 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">100 500 1000</ns1:阈值>
+    <ns1:阈值单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">元</ns1:阈值单位>
+    <ns1:法律条款原文>第四十五条  生产、运输、邮寄、存储、销售假冒伪劣烟草制品的，依照《成都市烟草专卖管理条例》第三十六条规定，按下列规定给予处罚：(一)在零售环节查获的假冒伪劣烟草制品价值不足100元且卷烟、雪茄烟数量不足1条的，责令其停止违法行为，没收其存储、销售的烟草制品和违法所得以及用于销售的工具、设备和其他相关物资，可并处以假冒伪劣烟草制品价值一倍以上二倍以下的罚款；(二)在零售环节查获的假冒伪劣烟草制品价值在100元以上，或者卷烟、雪茄烟数量在1条以上的，责令其停止违法行为，没收其存储、销售的烟草制品和违法所得以及用于销售的工具、设备和其他相关物资，并处以假冒伪劣烟草制品价值一倍以上二倍以下的罚款；(三)持有烟草专卖零售许可证的经营者，销售假冒伪劣烟草制品价值在500元以上或存储假冒伪劣烟草制品价值在1000元以上的，责令其停止违法行为，没收其销售或者存储的假冒伪劣烟草制品和违法所得以及用于销售的工具、设备和其他相关物资外，处以假冒伪劣烟草制品价值一倍以上二倍以下的罚款，并可以吊销其烟草专卖零售许可证。(四)在生产、运输、邮寄、存储环节查获假冒伪劣烟草制品的，责令停止违法行为，没收其生产、运输、邮寄、存储的烟草制品和违法所得及用于生产、运输的工具、设备和其他相关物资，可并处以生产、运输、邮寄、存储烟草制品价值一倍以上二倍以下的罚款。</ns1:法律条款原文>
+    <ns1:违法行为名称>生产、销售、运输、存储、投递假冒伪劣烟草制品</ns1:违法行为名称>
+    <ns1:法律名称>成都市烟草专卖行政处罚自由裁量权</ns1:法律名称>
+    <ns1:法律条数>四十五</ns1:法律条数>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为45处罚结果1"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为45处罚结果2"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为45处罚结果3"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为45处罚结果4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为45处罚结果1">
+    <ns1:处罚结果原文>(一)在零售环节查获的假冒伪劣烟草制品价值不足100元且卷烟、雪茄烟数量不足1条的，责令其停止违法行为，没收其存储、销售的烟草制品和违法所得以及用于销售的工具、设备和其他相关物资，可并处以假冒伪劣烟草制品价值一倍以上二倍以下的罚款</ns1:处罚结果原文>
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">倍</ns1:惩罚单位>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>true</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>false</ns1:没收违法所得>
+    <ns1:收购>true</ns1:收购>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为45处罚结果2">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">倍</ns1:惩罚单位>
+    <ns1:处罚结果原文>(二)在零售环节查获的假冒伪劣烟草制品价值在100元以上，或者卷烟、雪茄烟数量在1条以上的，责令其停止违法行为，没收其存储、销售的烟草制品和违法所得以及用于销售的工具、设备和其他相关物资，并处以假冒伪劣烟草制品价值一倍以上二倍以下的罚款</ns1:处罚结果原文>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>true</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>false</ns1:没收违法所得>
+    <ns1:收购>true</ns1:收购>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为45处罚结果3">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">倍</ns1:惩罚单位>
+    <ns1:处罚结果原文>(三)持有烟草专卖零售许可证的经营者，销售假冒伪劣烟草制品价值在500元以上或存储假冒伪劣烟草制品价值在1000元以上的，责令其停止违法行为，没收其销售或者存储的假冒伪劣烟草制品和违法所得以及用于销售的工具、设备和其他相关物资外，处以假冒伪劣烟草制品价值一倍以上二倍以下的罚款，并可以吊销其烟草专卖零售许可证</ns1:处罚结果原文>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>true</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>false</ns1:没收违法所得>
+    <ns1:收购>true</ns1:收购>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.tobacco.org#违法行为45处罚结果4">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">倍</ns1:惩罚单位>
+    <ns1:处罚结果原文>(四)在生产、运输、邮寄、存储环节查获假冒伪劣烟草制品的，责令停止违法行为，没收其生产、运输、邮寄、存储的烟草制品和违法所得及用于生产、运输的工具、设备和其他相关物资，可并处以生产、运输、邮寄、存储烟草制品价值一倍以上二倍以下的罚款</ns1:处罚结果原文>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>true</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>false</ns1:没收违法所得>
+    <ns1:收购>true</ns1:收购>
+  </rdf:Description>
+</rdf:RDF>

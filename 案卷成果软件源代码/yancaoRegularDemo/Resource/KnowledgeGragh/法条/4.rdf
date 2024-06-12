@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.tobacco.org#"
+   xmlns:ns2="http://www.tabacco.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.tobacco.org#punish_results4">
+    <ns1:confiscation_illegal_gains>false</ns1:confiscation_illegal_gains>
+    <ns1:confiscation_tobacco>false</ns1:confiscation_tobacco>
+    <ns1:Purchase>true</ns1:Purchase>
+    <ns1:Penalty>true</ns1:Penalty>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#Behavior/illegal_behavior4">
+    <ns1:max_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</ns1:max_penalty_rate>
+    <ns1:Punish rdf:resource="http://www.tobacco.org#punish_results4"/>
+    <ns1:purchase_tobacoo_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7</ns1:purchase_tobacoo_rate>
+    <ns2:purchase_tobacoo_leaf_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7</ns2:purchase_tobacoo_leaf_rate>
+    <ns1:min_penalty_rate rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.2</ns1:min_penalty_rate>
+    <ns1:raw_text>邮寄、异地携带烟叶、烟草制品超过国务院有关部门规定的限量一倍以上的，依照无准运证或者超过准运证规定的数量托运或者自运烟草专卖品的，处以违法运输的烟草专卖品价值20%以上50%以下的罚款，可以按照查获地省级烟草专卖行政主管部门出具的上年度烟叶平均收购价格的70%收购违法运输的烟叶，按照市场批发价格的70%收购违法运输的除烟叶外的其他烟草专卖品的规定处罚。</ns1:raw_text>
+    <ns1:behaviour_name>超限量邮寄或异地携带烟叶、烟草制品</ns1:behaviour_name>
+  </rdf:Description>
+</rdf:RDF>

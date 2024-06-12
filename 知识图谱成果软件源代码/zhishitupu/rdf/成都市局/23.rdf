@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="http://www.tobacco.org#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为23">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">比例</ns1:惩罚单位>
+    <ns1:阈值 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2000 5000 20000 50000</ns1:阈值>
+    <ns1:阈值单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">元</ns1:阈值单位>
+    <ns1:法律条款原文>第二十三条  烟草专卖批发企业和烟草制品生产企业从无烟草专卖生产企业许可证的企业购买卷烟纸、滤嘴棒、烟用丝束、烟草专用机械的，依照《中华人民共和国烟草专卖法实施条例》第六十一条规定，按下列规定给予处罚：(一)违法购买的烟草专卖品价值不足2000元的，处以价值百分之五十以上百分之六十以下的罚款；(二)违法购买的烟草专卖品价值在2000元以上不足5000元的，处以价值百分之六十以上百分之七十以下的罚款；(三)违法购买的烟草专卖品价值在5000元以上不足2万元的，处以价值百分之七十以上百分之八十以下的罚款；(四)违法购买的烟草专卖品价值在2万元以上不足5万元的，处以价值百分之八十以上百分之九十以下的罚款；(五)违法购买的烟草专卖品价值在5万元以上的，处以价值百分之九十以上一倍以下的罚款。</ns1:法律条款原文>
+    <ns1:违法行为名称>无烟草专卖生产企业许可证生产卷烟纸、滤嘴棒、烟用丝束或烟草专用机械</ns1:违法行为名称>
+    <ns1:法律名称>成都市烟草专卖行政处罚自由裁量权</ns1:法律名称>
+    <ns1:法律条数>二十三</ns1:法律条数>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为23处罚结果1"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为23处罚结果2"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为23处罚结果3"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为23处罚结果4"/>
+    <ns1:处罚 rdf:resource="http://www.tobacco.org#违法行为23处罚结果5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为23处罚结果1">
+    <ns1:处罚结果原文>(一)违法购买的烟草专卖品价值不足2000元的，处以价值百分之五十以上百分之六十以下的罚款</ns1:处罚结果原文>
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.5</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.6</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">比例</ns1:惩罚单位>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>false</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为23处罚结果2">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.6</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">比例</ns1:惩罚单位>
+    <ns1:处罚结果原文>(二)违法购买的烟草专卖品价值在2000元以上不足5000元的，处以价值百分之六十以上百分之七十以下的罚款</ns1:处罚结果原文>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>false</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tobacco.org#违法行为23处罚结果3">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.7</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">比例</ns1:惩罚单位>
+    <ns1:处罚结果原文>(三)违法购买的烟草专卖品价值在5000元以上不足2万元的，处以价值百分之七十以上百分之八十以下的罚款</ns1:处罚结果原文>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>false</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.tobacco.org#违法行为23处罚结果4">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.9</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">比例</ns1:惩罚单位>
+    <ns1:处罚结果原文>(四)违法购买的烟草专卖品价值在2万元以上不足5万元的，处以价值百分之八十以上百分之九十以下的罚款</ns1:处罚结果原文>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>false</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+    <rdf:Description rdf:about="http://www.tobacco.org#违法行为23处罚结果5">
+    <ns1:最小惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.9</ns1:最小惩罚>
+    <ns1:最大惩罚 rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1</ns1:最大惩罚>
+    <ns1:惩罚单位 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">比例</ns1:惩罚单位>
+    <ns1:处罚结果原文>(五)违法购买的烟草专卖品价值在5万元以上的，处以价值百分之九十以上一倍以下的罚款</ns1:处罚结果原文>
+    <ns1:罚款>true</ns1:罚款>
+    <ns1:没收烟草或烟草制品>false</ns1:没收烟草或烟草制品>
+    <ns1:没收违法所得>false</ns1:没收违法所得>
+    <ns1:收购>false</ns1:收购>
+  </rdf:Description>
+</rdf:RDF>

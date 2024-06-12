@@ -1,0 +1,16 @@
+***********************************************************************
+日志信息 2022-11-08 15:01:59
+审查合同发生错误:加载Sbert………………
+运行设备： cpu
+加载Sbert完成…………
+处理：1个文件
+[['C:\\Users\\Administrator\\Desktop\\合同组测试用例\\标准文件\\采购合同.docx', 'nonstandard', '0']]
+['C:/Users/Administrator/Desktop/合同组测试用例/标准文件/采购合同.docx', 'nonstandard', 0]
+买卖合同非标准审查
+(-2147352567, '发生意外。', (0, 'Microsoft Word', '“Close”不是一种属性。', 'wdmain11.chm', 25342, -2146822426), None)
+[Errno 2] No such file or directory: 'userdict.txt'
+C:/审查结果/20221108150041/采购合同(完整审查).docx
+C:/Users/Administrator/Desktop/合同组测试用例/标准文件/采购合同.docx 审查出错 local variable 'check_intergrity' referenced before assignment
+合同审查出错！
+合同为非标准合同，对该合同进行风险性检测和完整性检测！
+
